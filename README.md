@@ -2,7 +2,7 @@
 KSN_Projekt_David_Uzelac
 
 ## AM Modulation
-! [alt text] (https://github.com/Bypythagora/KSN_DavidU/blob/main/AM%20Modulation%20img.png)
+![alt text](https://github.com/Bypythagora/KSN_DavidU/blob/main/AM%20Modulation%20img.png)
 Das Bild oben präsentiert eine repräsentative AM-Modulation im Kontext von GNU Radio. Im Folgenden wird eine ausführliche Erläuterung der verschiedenen Komponenten zur Konstruktion der AM-Modulation präsentiert.
 
 + Die Variable (samp_rate) definiert die Abtastfrequenz, die in diesem Fall 48 kHz beträgt.
